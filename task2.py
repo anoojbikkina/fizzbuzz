@@ -1,3 +1,6 @@
+# source - https://thispointer.com/python-how-to-get-list-of-files-in-directory-and-sub-directories/ #
+
+
 import os
 import hashlib
 
